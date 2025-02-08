@@ -13,5 +13,7 @@ The system's architecture is made to be easy to manage, expand, and maintain, us
 4. Design Patterns:
 
 o Singleton Design Pattern: Used for Managing database connections.
+
 o Observer design pattern: Used for notifying users about future available sites.
+
 o Strategy design pattern: Used for implementing various payment modes.
